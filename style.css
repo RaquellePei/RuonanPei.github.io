@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: Calibri, sans-serif;
   background-color: #D7D6D6;
   color: #36413E;
 }
@@ -78,8 +78,8 @@ header {
 }
 
 .photo-container img {
-  width: 200px;
-  height: auto;
+  width: 1200px;
+  height: 600px;
   display: block;
 }
 
@@ -90,3 +90,12 @@ header {
   background-color: #D7D6D6;
   color: #36413E;
 }
+
+footer {
+  text-align: center;
+  font-size: 18px;  
+  margin-bottom: 20px;  
+  margin-top: 60px;
+}
+
+
